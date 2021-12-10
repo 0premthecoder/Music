@@ -62,6 +62,60 @@ let All_song = [
 	img: "img/6.jpg",
 	singer: "Akhil"
    },
+   {
+	name: "Backbone",
+	path: "music/7.mp3",
+	img: "img/7.jpg",
+	singer: "Hardy Sandhu"
+   },
+   {
+	name: "Patola",
+	path: "music/8.mp3",
+	img: "img/8.jpg",
+	singer: "Guru Randhawa ft Bohemia"
+   },
+   {
+	name: "Suit",
+	path: "music/9.mp3",
+	img: "img/9.jpg",
+	singer: "Guru Randhawa ft Arjun"
+   },
+   {
+	name: "Superman",
+	path: "music/10.mp3",
+	img: "img/10.jpg",
+	singer: "Yo Yo Honey Singh"
+   },
+   {
+	name: "Dard Dilo ke",
+	path: "music/11.mp3",
+	img: "img/11.jpg",
+	singer: "Moh Irfan"
+   },
+   {
+	name: "Mere Mehboob",
+	path: "music/12.mp3",
+	img: "img/10.jpg",
+	singer: "Yo Yo Honey Singh"
+   },
+   {
+	name: "Mere Rashke Qamar",
+	path: "music/13.mp3",
+	img: "img/13.jpg",
+	singer: "Rahat Fateh Ali Khan"
+   },
+   {
+	name: "Na Na Na Na",
+	path: "music/14.mp3",
+	img: "img/14.jpg",
+	singer: "J Star"
+   },
+   {
+	name: "Hip Hop",
+	path: "music/15.mp3",
+	img: "img/15.jpg",
+	singer: "Yo Yo Honey Singh ft Lil Golu"
+   },
 ];
 
 
